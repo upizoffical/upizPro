@@ -1,0 +1,23 @@
+/* ///////////////////////////////////////////////////////////////*/
+/*                                                                 */
+/*                                                                 */
+/*                                                                 */
+/*                   author: Sefa ŞEKER                            */
+/*                                                                 */
+/*                   website: upiz.net/upizpro                     */
+/*                                                                 */
+/*                   license: Commercial License                   */
+/*                                                                 */
+/*                   version: 3.0                                  */
+/*                                                                 */
+/*                   Copyright (c) 2018 Sefa ŞEKER | upiz.net      */
+/*                                                                 */
+/*                                                                 */
+/*                                                                 */
+/* ///////////////////////////////////////////////////////////////*/
+
+Please get the above files and import them your project to use upizPro library. Don't forget to use upizPro jquery and bootstrap together in order to get much more efficiency.
+upizPro is generally based on colours and margin values. You have to use bootstrap codes while designing an element.
+While upizPro was coded, the main goal was to eliminate the obligation of writing different css codes for each elements. Therefore, the all words on the documents are a class name. You can name your elements to whatever you like. Don't forget to use upizPro as a class not an id.
+
+For detail document : http://upiz.net/upizpro
